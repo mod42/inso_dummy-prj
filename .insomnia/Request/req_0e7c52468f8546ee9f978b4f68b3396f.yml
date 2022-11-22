@@ -1,0 +1,21 @@
+_id: req_0e7c52468f8546ee9f978b4f68b3396f
+type: Request
+parentId: wrk_cdc02d8396464592bdc560ed82069293
+modified: 1669122176998
+created: 1669122160480
+url: http://httpbin.org/anything
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669122160480
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
